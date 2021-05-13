@@ -1,0 +1,17 @@
+{
+  "name": "taskmanager",
+  "version": "1.0.0",
+  "description": "My solution to a coding challenge I found on codi.gitbook.io/docs/04_challenges/nodejs-challenge. ",
+  "main": "index.js",
+  "scripts": {
+    "execute": "node index.js"
+  },
+  "author": "Casey Kuilman",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "*",
+    "readline": "^1.3.0",
+    "sqlite3": "^5.0.2",
+    "wait": "^0.4.2"
+  }
+}
